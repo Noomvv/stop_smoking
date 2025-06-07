@@ -140,7 +140,7 @@ export default function QuitSmokingApp() {
             
             <div className={styles.statBlock}>
               <h3>Сэкономлено денег</h3>
-              <p className={styles.statValue}>{moneySaved} ₽</p>
+              <p className={styles.statValue}>{moneySaved} Сум</p>
             </div>
             
             <div className={styles.statBlock}>
